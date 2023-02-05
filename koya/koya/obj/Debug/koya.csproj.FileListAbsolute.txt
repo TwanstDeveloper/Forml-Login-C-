@@ -1,0 +1,11 @@
+C:\Users\sha pc\source\repos\koya\koya\bin\Debug\koya.exe.config
+C:\Users\sha pc\source\repos\koya\koya\bin\Debug\koya.exe
+C:\Users\sha pc\source\repos\koya\koya\bin\Debug\koya.pdb
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.Form1.resources
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.Form2.resources
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.Properties.Resources.resources
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.csproj.GenerateResource.cache
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.exe
+C:\Users\sha pc\source\repos\koya\koya\obj\Debug\koya.pdb
